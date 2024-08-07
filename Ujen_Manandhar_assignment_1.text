@@ -1,0 +1,38 @@
+Libraries: Libraries are previously made code script designed to prevent inventing the wheel again.
+
+Pandas ->
+Pandas is a library in python that is useful for data analysis. 
+It is used to extraction, cleaning, grouping, filtering, combining, analysis and preperation of data. 
+It uses two types of data structure, 1D ( use of array) and 2D (use of rows and columns). 
+
+Numpy ->
+Numpy is a popular Python library used for multi-dimensional array, scientific computing, 
+data analysis and matrix processing as it is used for varities of mathmetical operations. 
+With capabilities to handel linear algebra, random number capabilities and more, along with allowing 
+users to easily manipulate matrices Numpy becomes ideal for machine learning. 
+
+Tensorflow ->
+Tensorflow is a library that specializes with differentiable programing, 
+which means it can automatically compute a function’s derivative. It is a framework for defining and running 
+computations with tensors which is used to train and run deep neural netwoks.
+
+Keras ->
+Keras is a Python library designed for developing neural netwoks for machine learning modules. 
+Keras also makes it easier of ML beginners to build and design a neural network. 
+
+Pytorch ->
+Pytorch is a Python library based upon C programming language framework. 
+It is mainly used in machine learning applications that include natural language processing and 
+computer vision. It is also a library that uses GPU and fast at computing large,dense data sets 
+and graphs.
+
+Scikit-learn
+Scikit-learn is a Python library that is built upon NumPy and SciPy. 
+It is used for data mining, modeling and analysis. It also supports most of the supervised and unsupervised learning algorithms.
+
+
+
+References
+Geeks for geeks. (2023). Python libraries for machine learning. Retrieved 2024, from Geeks for geeks: https://www.geeksforgeeks.org/best-python-libraries-for-machine-learning/
+Coursera . (2024, April 05). Python Machine Learning Libary. Retrieved 2024, from Coursera: https://www.coursera.org/articles/python-machine-learning-library
+
